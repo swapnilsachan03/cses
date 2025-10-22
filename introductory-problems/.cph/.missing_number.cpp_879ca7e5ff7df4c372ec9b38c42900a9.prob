@@ -1,1 +1,0 @@
-{"name":"Local: missing_number","url":"c:\\Users\\swapn\\Desktop\\CSES\\Introductory Problems\\missing_number.cpp","tests":[{"id":1711644629720,"input":"5\n2 3 1 5","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\swapn\\Desktop\\CSES\\Introductory Problems\\missing_number.cpp","group":"local","local":true}
